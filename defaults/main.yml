@@ -1,0 +1,10 @@
+---
+role_radarr_image: 'lscr.io/linuxserver/radarr'
+role_radarr_container: 'radarr'
+role_radarr_puid: '1000'
+role_radarr_pgid: '1000'
+role_radarr_tz: 'Europe/Zurich'
+role_radarr_dir: '/opt/app-radarr'
+role_radarr_network: 'app-network'
+
+role_radarr_media_dir: '/opt/media'
